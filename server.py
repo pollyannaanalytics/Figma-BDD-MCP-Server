@@ -47,7 +47,7 @@ async def generate_bdd_from_figma(url: str) -> Any:
         
         # generate BDD test plan
         prompt = f"""
-        Based on the following Figma design data, create a comprehensive BDD (Behavior Driven Development) test plan with 繁體中文.
+        Based on the following Figma design data, create a comprehensive BDD (Behavior Driven Development) test plan.
         
         Analyze the UI elements and generate scenarios for:
         1. Layout and Visual Elements:
