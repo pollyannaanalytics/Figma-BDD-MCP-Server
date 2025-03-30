@@ -1,6 +1,11 @@
 # BDD Test Generator MCP
 A microservice that automatically generates Behavior-Driven Development (BDD) test plans from Figma designs.
 
+
+https://github.com/user-attachments/assets/cf0c935a-ffed-4f86-b3a8-9002ac57f34b
+
+
+
 ## Overview
 This project provides a microservice that extracts UI elements, interactions, and flow information from Figma design files and automatically generates BDD test plans in Gherkin syntax. This enables development and testing teams to quickly create design-based test cases, ensuring that application behavior aligns with design intent.
 
