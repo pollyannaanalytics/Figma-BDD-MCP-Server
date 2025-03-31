@@ -30,11 +30,6 @@ This project provides a microservice that extracts UI elements, interactions, an
 Python 3.8+
 Figma API access token
 
-### Steps
-
-1. Clone the repository
-2. bashCopygit clone https://github.com/yourusername/bdd-generator-mcp.git
-3. cd bdd-generator-mcp
 
 ## IDE Integration
 ### Claude Desktop Setup
