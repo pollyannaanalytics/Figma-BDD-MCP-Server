@@ -27,9 +27,9 @@ This project provides a microservice that extracts UI elements, interactions, an
 
 ## Installation and Configuration
 ### Prerequisites
-Python 3.8+
-Figma API access token
-
+1. Environment: Python 3.8+
+2. Get Figma API access token: https://help.figma.com/hc/en-us/articles/8085703771159-Manage-personal-access-tokens
+3. Set `FIGMA_API_TOKEN` in .env 
 
 ## IDE Integration
 ### Claude Desktop Setup
